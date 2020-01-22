@@ -9,7 +9,7 @@ Aditya Hajare ([Linkedin](https://in.linkedin.com/in/aditya-hajare)).
 WIP (Work In Progress)!
 
 ## Finished Apps
-- Monsters Rolodex:
+- **Monsters Rolodex:**
     * Live Webasite: [https://github.com/aditya43/reactjs-monsters-rolodex](https://github.com/aditya43/reactjs-monsters-rolodex/)
     * Github Repo: [https://github.com/aditya43/reactjs-monsters-rolodex](https://github.com/aditya43/reactjs-monsters-rolodex/)
 
