@@ -10,7 +10,7 @@ WIP (Work In Progress)!
 
 ## Finished Apps
 - **Monsters Rolodex:**
-    * Live Webasite: [https://aditya43.github.io/monsters-rolodex-reactjs-app/](https://aditya43.github.io/monsters-rolodex-reactjs-app//)
+    * Live Website: [https://aditya43.github.io/monsters-rolodex-reactjs-app/](https://aditya43.github.io/monsters-rolodex-reactjs-app//)
     * Github Repo: [https://github.com/aditya43/monsters-rolodex-reactjs-app](https://github.com/aditya43/monsters-rolodex-reactjs-app/)
 
 ## License
