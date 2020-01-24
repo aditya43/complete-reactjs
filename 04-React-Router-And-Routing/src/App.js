@@ -5,9 +5,15 @@ import './App.css';
 
 import HomePage from './pages/homepage/homepage.component';
 
-const HatsPage = () => (
+const TopicsPage = () => (
     <div>
-        <h1>HATS PAGE</h1>
+        <h1>TOPICS PAGE</h1>
+    </div>
+);
+
+const TopicDetail = () => (
+    <div>
+        <h1>TOPIC DETAIL PAGE</h1>
     </div>
 );
 
@@ -16,7 +22,8 @@ function App () {
         <div>
             <Switch>
                 <Route exact path='/' component={HomePage} />
-                <Route exact path='/hats' component={HatsPage} />
+                <Route exact path='/topics' component={TopicsPage} />
+                <Route path='/topics/:topicId' component={TopicDetail} />
             </Switch>
         </div>
     );
